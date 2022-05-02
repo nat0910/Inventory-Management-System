@@ -1,5 +1,7 @@
 # Inventory-Management-System
 
+#### Check The PowerPoint Presentation For Details
+
 ### Starting Page 
 ![staring page screenshot](https://cdn.discordapp.com/attachments/883264024530255892/913857669746524190/unknown.png)
 

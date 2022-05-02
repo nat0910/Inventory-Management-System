@@ -1,0 +1,46 @@
+@import './reset.scss';
+
+body{
+    background-color: var(--bg-color);
+    color: var(--font-color);
+}
+.nav{
+    margin-left: 14%;
+}
+.form-control,.form-control:focus{
+    color: var(--font-color);
+}
+.form-select:focus,.form-select{
+    color: var(--font-color);
+}
+
+#search,#search:focus,#login-username,#login-password{
+    color: var(--secondary-font);
+}
+
+li{
+    text-transform: capitalize;
+}
+li a{
+    text-decoration: none;
+    color: var(--unactive);
+}
+li a:hover{
+    color: var(--unactive-hover);
+}
+
+.instock{
+    text-transform: capitalize;
+    color: #20c997;
+}
+
+.outofstock{
+    color:#e91b30;
+}
+
+.seasonal{
+    color: #ffc107;
+}
+.p_name{
+    text-transform: capitalize;
+}
